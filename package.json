@@ -24,7 +24,7 @@
 		"decoupled-kit-health-check": "npx --prefer-offline @pantheon-systems/decoupled-kit-health-check drupal"
 	},
 	"dependencies": {
-		"@pantheon-systems/drupal-kit": "file:/Users/mitchellmarkoff/Desktop/decoupled-kit-js/packages/drupal-kit/pantheon-systems-drupal-kit-4.6.2.tgz",
+		"@pantheon-systems/drupal-kit": "4.6.2",
 		"@pantheon-systems/nextjs-kit": "1.7.4",
 		"dotenv": "^16.0.2",
 		"next": "13.4.7",
