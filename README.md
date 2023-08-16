@@ -1,6 +1,6 @@
-# Pantheon Decoupled Kit Next Drupal Starter
+# Pantheon Decoupled Kit Next Drupal Starter #
 
-## Getting Started
+## Getting Started ##
 
 To get started with the Next Drupal Starter, use our
 `create-pantheon-decoupled-kit`, or the "CLI". Full documentation for this npm
